@@ -5,4 +5,12 @@ in_menu: true
 ---
 # Cordes en Duo
 
-Violon 🎻 et guitare 
+Ce duo guitare - violon se veut être un voyage au travers des frontières, des
+styles et des esthétiques.
+
+![Un violoncelliste et une guitariste debout, tenant leur instrument, dehors.]({% link images/cordesenduo.jpg %})
+
+[Venez nous écouter !](/activités.html)
+
+Guitare : Agnès Condamin
+Violon : Frédéric Ladame 
