@@ -1,5 +1,5 @@
 ---
-title: "Accueil 1"
+title: "Accueil"
 order: 0
 in_menu: true
 ---
