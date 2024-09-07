@@ -10,4 +10,5 @@ in_menu: true
 # Concerts passés
 
 ## 2024
-- 15 juin - Église de Saint-Savournin 
+- 15 juin - Église de Saint-Savournin
+- 26 février - première partie du groupe Cabrel Classique - Bateau Inga des Riaux à l'Estaque 
