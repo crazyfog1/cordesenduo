@@ -1,5 +1,5 @@
 ---
-title: "Activités"
+title: "Concerts"
 order: 1
 in_menu: true
 ---
