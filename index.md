@@ -10,7 +10,7 @@ styles et des esthétiques.
 
 ![Un violoncelliste et une guitariste debout, tenant leur instrument, dehors.]({% link images/cordesenduo.jpg %})
 
-[Venez nous découvrir à notre prochain concert](https://crazyfog1.github.io/cordesenduo/activites.html)
+[Venez nous découvrir à notre prochain concert](/concerts.html)
 
 Guitare : Agnès Condamin
 
