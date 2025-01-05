@@ -10,7 +10,7 @@ styles et des esthétiques.
 
 ![Un violoncelliste et une guitariste debout, tenant leur instrument, en souriant.]({% link images/cordesenduo_artistes.jpg %})
 
-[Venez nous découvrir à notre prochain concert](/concerts.html)
+> [Venez nous découvrir à notre prochain concert](/concerts.html)
 
 Guitare : Agnès Condamin
 
