@@ -1,3 +1,10 @@
 :root {
     --couleur-primaire : #07357d;
 }
+blockquote {
+    background-color: var(--couleur-primaire);
+    text-align: center;
+}
+blockquote a {
+    color: white;
+}
