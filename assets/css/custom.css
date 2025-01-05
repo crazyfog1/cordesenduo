@@ -4,7 +4,14 @@
 blockquote {
     background-color: var(--couleur-primaire);
     text-align: center;
+    width: 70%;
+    margin: 0 15%;
 }
 blockquote a {
     color: white;
+}
+
+blockquote {
+    border: 1px solid black;
+    border-radius: 5px;
 }
