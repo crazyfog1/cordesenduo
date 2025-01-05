@@ -12,6 +12,12 @@ styles et des esthétiques.
 
 > [Venez nous découvrir à notre prochain concert](/concerts.html)
 
+ou
+
+```
+[Venez nous découvrir à notre prochain concert](/concerts.html)
+```
+
 Guitare : Agnès Condamin
 
 Violon : Frédéric Ladame 
