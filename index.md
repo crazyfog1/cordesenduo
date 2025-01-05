@@ -19,7 +19,7 @@ styles et des esthétiques.
 
 ## Contact
 
-Vous pouvez vous suivre ou nous contacter sur notre [page facebook](https://www.facebook.com/profile.php?id=100063775533687).
+Vous pouvez nous suivre ou nous contacter sur notre [page facebook](https://www.facebook.com/profile.php?id=100063775533687).
 
 ## À propos
 
