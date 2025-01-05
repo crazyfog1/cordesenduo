@@ -8,14 +8,14 @@ in_menu: true
 Ce duo guitare - violon se veut être un voyage au travers des frontières, des
 styles et des esthétiques.
 
-> [Venez nous découvrir à notre prochain concert](/concerts.html)
+> [Venez nous découvrir à notre **prochain concert** !](/concerts.html)
 
 ![Un violoncelliste et une guitariste debout, tenant leur instrument, en souriant.]({% link images/cordesenduo_artistes.jpg %})
 
 # Les artistes
 
-- Guitare : Agnès Condamin
-- Violon : Frédéric Ladame
+- Guitare : **Agnès Condamin**
+- Violon : **Frédéric Ladame**
 
 # Contact
 
