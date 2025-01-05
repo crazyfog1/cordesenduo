@@ -10,9 +10,11 @@ styles et des esthétiques.
 
 > [Venez nous découvrir à notre **prochain concert** !](/concerts.html)
 
-![Une guitariste et un violoncelliste debout, dans une église et devant un vitrail coloré. Ils tiennent leur instrument d’une main et sourient.]({% link images/cordesenduo_artistes.jpg %})
+![Dessin d'une guitare et d'un violon posés sur le côté, sur des tabourets.]({% link images/cordes.jpg %})
 
 ## Les artistes
+
+![Une guitariste et un violoncelliste debout, dans une église et devant un vitrail coloré. Ils tiennent leur instrument d’une main et sourient.]({% link images/cordesenduo_artistes.jpg %})
 
 - Guitare : **Agnès Condamin**
 - Violon : **Frédéric Ladame**
