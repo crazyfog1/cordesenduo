@@ -5,7 +5,7 @@ in_menu: true
 ---
 # Concerts à venir
 
-*En attente…*
+- 11 janvier 18h30 - Salle des fêtes - Cadolive (13950) (concert gratuit)
 
 # Concerts passés
 
