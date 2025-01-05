@@ -13,5 +13,4 @@ in_menu: true
 
 ### 2024
 - 11 octobre - Théâtre du Têtard - Marseille
-- 15 juin - Église de Saint-Savournin
-- 26 février - première partie du groupe Cabrel Classique - Bateau Inga des Riaux à l'Estaque 
+- 15 juin - Église de Saint-Savournin 
