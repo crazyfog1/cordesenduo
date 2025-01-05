@@ -1,7 +1,7 @@
 :root {
     --couleur-primaire : #07357d;
 }
-blockquote + p {
+p + blockquote {
     background-color: var(--couleur-primaire);
     border: 1px solid black;
     border-radius: 5px;
@@ -9,6 +9,6 @@ blockquote + p {
     width: 70%;
     margin: 0 15%;
 }
-blockquote + p a {
+p + blockquote a {
     color: white;
 }
