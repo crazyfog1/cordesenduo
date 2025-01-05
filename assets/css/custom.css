@@ -12,3 +12,6 @@ p + blockquote {
 p + blockquote a {
     color: white;
 }
+p + blockquote:hover {
+    background-color: #17458d;
+}
