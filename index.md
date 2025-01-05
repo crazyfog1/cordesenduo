@@ -8,7 +8,7 @@ in_menu: true
 Ce duo guitare - violon se veut être un voyage au travers des frontières, des
 styles et des esthétiques.
 
-![Un violoncelliste et une guitariste debout, tenant leur instrument, dehors.]({% link images/cordesenduo.jpg %})
+![Un violoncelliste et une guitariste debout, tenant leur instrument, en souriant.]({% link images/cordesenduo_artistes.jpg %})
 
 [Venez nous découvrir à notre prochain concert](/concerts.html)
 
