@@ -5,7 +5,7 @@ in_menu: true
 ---
 # Cordes en Duo
 
-Ce duo guitare - violon se veut être un voyage au travers des frontières, des
+Ce duo **guitare - violon** se veut être un voyage au travers des frontières, des
 styles et des esthétiques.
 
 > [Venez nous découvrir à notre **prochain concert** !](/concerts.html)
