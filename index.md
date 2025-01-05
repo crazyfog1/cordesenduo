@@ -10,7 +10,7 @@ styles et des esthétiques.
 
 > [Venez nous découvrir à notre **prochain concert** !](/concerts.html)
 
-![Un violoncelliste et une guitariste debout, tenant leur instrument, en souriant.]({% link images/cordesenduo_artistes.jpg %})
+![Une guitariste et un violoncelliste debout, dans une église et devant un vitrail coloré. Ils tiennent leur instrument d’une main et sourient.]({% link images/cordesenduo_artistes.jpg %})
 
 ## Les artistes
 
