@@ -1,13 +1,14 @@
 :root {
     --couleur-primaire : #07357d;
 }
+header {
+    border-bottom: 2px solid black;
+}
 p + blockquote {
     background-color: var(--couleur-primaire);
-    border: 1px solid black;
-    border-radius: 5px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
     text-align: center;
-    width: 70%;
-    margin: 0 15%;
 }
 p + blockquote a {
     color: white;
