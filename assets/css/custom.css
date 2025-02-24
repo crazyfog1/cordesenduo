@@ -1,11 +1,9 @@
 :root {
     --couleur-primaire : #07357d;
 }
-//Petite bordure noire pour amplifier le header
 header {
     border-bottom: 2px solid black;
 }
-//On cache le menu dans le footer
 #nav {
 display: none;
 }
