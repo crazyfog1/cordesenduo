@@ -1,19 +1,11 @@
 :root {
     --couleur-primaire : #07357d;
 }
+//Petite bordure noire pour amplifier le header
 header {
     border-bottom: 2px solid black;
 }
-p + blockquote {
-    background-color: var(--couleur-primaire);
-    border-top: 2px solid black;
-    border-bottom: 2px solid black;
-    text-align: center;
-    border-left: 0;
-}
-p + blockquote a {
-    color: white;
-}
-p + blockquote:hover {
-    background-color: #17458d;
+//On cache le menu dans le footer
+#nav {
+display: none;
 }
