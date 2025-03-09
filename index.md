@@ -22,7 +22,7 @@ Ce duo **guitare - violon** se veut être un voyage au travers des frontières, 
 
 ## Contact
 
-Vous pouvez nous suivre ou nous contacter sur notre [page facebook](https://www.facebook.com/profile.php?id=100063775533687).
+Vous pouvez suivre nos actualités et concerts ou nous contacter sur notre [page facebook](https://www.facebook.com/profile.php?id=100063775533687).
 
 ## À propos
 
