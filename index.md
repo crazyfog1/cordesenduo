@@ -5,7 +5,8 @@ in_menu: true
 ---
 # Cordes en Duo
 
-Ce duo **guitare - violon** se veut être un voyage au travers des frontières, des styles et des esthétiques.
+Nous sommes un duo qui se propose de vous emmener dans un voyage au travers les frontières, les styles et les esthétiques. Nous jouons de la 
+**guitare** et du **violon**.
 
 <a href="/concerts.html" class="bouton">Nos concerts</a>
 
@@ -22,8 +23,8 @@ Ce duo **guitare - violon** se veut être un voyage au travers des frontières, 
 
 ## Contact
 
-Vous pouvez suivre nos actualités et concerts ou nous contacter sur notre [page facebook](https://www.facebook.com/profile.php?id=100063775533687).
+Nous vous attendons sur notre [page facebook](https://www.facebook.com/profile.php?id=100063775533687) où vous pouvez suivre nos actualités, nos concerts et nous contacter (notamment si vous souhaitez nous proposer d'organiser un concert).
 
 ## À propos
 
-Photo de Christian Dresse 
+Un grand merci à Christian Dresse pour la photo. 
