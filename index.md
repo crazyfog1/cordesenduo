@@ -9,6 +9,8 @@ Nous sommes un duo qui jouons de la **guitare** et du **violon** pour vous faire
 
 <a href="/concerts.html" class="bouton">Venez nous découvrir à notre prochain concert !</a>
 
+Œuvres de Paganini, Zenamon, Piazolla, Bartok…
+
 ![Une guitariste et un violoncelliste debout, dans une église et devant un vitrail coloré. Ils tiennent leur instrument d’une main et sourient.]({% link images/cordesenduo_artistes.jpg %})
 
 ## Qui sommes nous
