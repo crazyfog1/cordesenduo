@@ -4,6 +4,7 @@
 header {
     border-bottom: 2px solid black;
 }
-#nav {
-display: none;
+img {
+border-radius: 8px;
+border: 1px solid black;
 }
